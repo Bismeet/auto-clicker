@@ -1,0 +1,13 @@
+{
+    "mode": "smart",
+    "step_delay_sec": 1.0,
+    "delay_jitter_sec": 0.2,
+    "scan_interval_sec": 0.25,
+    "confidence_close_combat": 0.75,
+    "confidence_back_to_future": 0.8,
+    "click_offset_px": 6,
+    "inactivity_timeout_sec": 20.0,
+    "debug_mode": false,
+    "nudge_cursor_after_click": true,
+    "monitor_index": 1
+}
